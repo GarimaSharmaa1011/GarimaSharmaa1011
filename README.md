@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GarimaSharmaa1011
 - 👀 I’m interested in cool techy stuff and web designing .
-- 🌱 I’m currently learning c++ , python and java.
+- 🌱 I’m currently learning c++ , python , HTML , CSS and JavaScript.
 - 💞️ I’m looking to collaborate on open source projects💻
 - 📫 You can easily reach me at :: garima1011sharma@gmail.com
 - 😄 Pronouns: She/Her🎀
